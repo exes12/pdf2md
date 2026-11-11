@@ -1,0 +1,10 @@
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
