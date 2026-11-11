@@ -1,5 +1,5 @@
 #  PDF to Markdown Converter
-
+### 👉 [Click Here to Download pdf2md.exe (Windows)](https://github.com/exes12/pdf2md/releases/latest/download/pdf2md.exe)
 A fast, lightweight desktop utility that transforms PDF files into clean, structured Markdown (`.md`) documents. Built with Python, `Tkinter`, and `pymupdf4llm` for instant CPU-based conversion without heavy dependencies.
 
 ##  Features
